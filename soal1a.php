@@ -1,5 +1,8 @@
 <?php
 
+// Soal 1A
+// Modifikasi
+
 $jml = $_GET['jml'];
 
 $total = '';
